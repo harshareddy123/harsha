@@ -1,0 +1,21 @@
+From cf3da4ce8bb9fafdedc9ea59e6416b44137126ec Mon Sep 17 00:00:00 2001
+From: harshareddy123 <vardhan1437@gmail.com>
+Date: Mon, 17 Apr 2017 16:53:36 +0530
+Subject: [PATCH 2/6] changed
+
+---
+ harsha.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/harsha.txt b/harsha.txt
+index 367f0cb..29a3343 100644
+--- a/harsha.txt
++++ b/harsha.txt
+@@ -3,3 +3,4 @@ Nekante baguna rey.
+ on the day 17th feb
+ on 21st
+ on 10th
++in aslkjn
+-- 
+2.11.1.windows.1
+

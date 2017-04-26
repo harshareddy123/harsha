@@ -1,0 +1,38 @@
+From 69876e5126e10af421b2c6e454136e738ec7cdfb Mon Sep 17 00:00:00 2001
+From: harshareddy123 <vardhan1437@gmail.com>
+Date: Wed, 26 Apr 2017 11:18:08 +0530
+Subject: [PATCH 5/6] assded
+
+---
+ harsha.txt | 1 +
+ patch.diff | 9 +++++++++
+ 2 files changed, 10 insertions(+)
+ create mode 100644 patch.diff
+
+diff --git a/harsha.txt b/harsha.txt
+index 29a3343..d9d334b 100644
+--- a/harsha.txt
++++ b/harsha.txt
+@@ -4,3 +4,4 @@ on the day 17th feb
+ on 21st
+ on 10th
+ in aslkjn
++just urtke
+diff --git a/patch.diff b/patch.diff
+new file mode 100644
+index 0000000..fb511ee
+--- /dev/null
++++ b/patch.diff
+@@ -0,0 +1,9 @@
++diff --git a/harsha.txt b/harsha.txt
++index 29a3343..d9d334b 100644
++--- a/harsha.txt
+++++ b/harsha.txt
++@@ -4,3 +4,4 @@ on the day 17th feb
++ on 21st
++ on 10th
++ in aslkjn
+++just urtke
+-- 
+2.11.1.windows.1
+
